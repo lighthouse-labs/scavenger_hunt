@@ -16,6 +16,7 @@ Give yourself 10 points for every one of these you can find:
 6. Vatican assassin warlocks
 7. braaaiiiins
 8. beer and cider in the same place
+9. collard greens
 
 Give yourself 5 points for doing the following:
 1. cd to a directory tree that spells out the common name for a canine
@@ -23,4 +24,4 @@ Give yourself 5 points for doing the following:
 3. From #2, cd DIRECTLY to another directory that spells out the name of the bald (and very cool) instructor
 4. From the top level directory, cd to a directory level that spells out 'top'.
 
-Alright, if you found everything, and did it all correctly, you should have 100 points and a lot more experience moving around in a Unix/Linux directory environment.
+Alright, if you found everything, and did it all correctly, you should have 110 points total and a lot more experience moving around in a Unix/Linux directory environment.
